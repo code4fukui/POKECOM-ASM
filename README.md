@@ -1,5 +1,7 @@
 # POKECOM-ASM
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A Z80-compatible pocket computer emulator project.
 
 ## Features
